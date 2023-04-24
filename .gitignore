@@ -127,3 +127,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Training_Batch_files
+Prediction_Batch_files
+Prediction_Database
+Prediction_FileFromDB
+Prediction_Logs
+Prediction_Output_file
+PredictionArchivedBadData
+preprocessing_data
+
+Training_Database
+Training_FileFromDB
+Training_Logs
+Training_Output_file
+TrainingArchiveBadData
+app.py
+models
+flask_monitoringdashboard.db
+EncoderPickle
